@@ -4,3 +4,4 @@ Hey, I'm Kiran and I plan to use this repository to share the code from my serie
 
 ## Tutorial Videos:
 - Episode #1 - https://youtu.be/rpliFytej4I
+- Episode #2 - [Not Published]
